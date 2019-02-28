@@ -1,0 +1,91 @@
+body {
+
+
+    margin: 0;
+    padding: 0;
+
+}
+.header {
+
+
+    height:72px;
+    background: #29487d;
+}
+.logo{
+    color: white;
+    float:left;
+
+
+ 
+}
+.birinci{
+    color: white
+}
+.menu{
+    float: right;
+    color: white;
+    padding-top:10px
+}
+.inputONE {  display: inline-block
+
+}
+  
+
+
+
+.inputONE input{
+    padding: 5px 20px;
+
+
+}
+.button{
+    background: #4267b2;
+    border:none #29487d;
+    color: white;
+    padding :7px 15px;
+    border-color:#29487d;
+    border-radius: 5px
+}
+.button:hover{
+    background: #365899;
+}
+.clearfix{
+width:980px;
+margin: 0 auto
+
+}
+.content{
+    width: 100%;
+    
+    
+}
+.left{
+   float: left;
+    width: 565px;
+
+    padding-top: 20px;
+}
+.right{
+    width: 380px;
+    float: right
+}
+.input1{
+    width: 186px;
+    padding: 12px
+}
+.input2{
+    width: 377px;
+    padding:12px;
+    margin:8px 0;
+}
+.select{
+padding: 8px
+
+}
+.Kaydol{
+    padding: 10px 45px;
+    margin-top: 15px;
+    background: #69a74f;
+    border-color:#3b6e22;
+    
+}
